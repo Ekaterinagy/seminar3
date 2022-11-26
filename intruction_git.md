@@ -102,6 +102,13 @@ git commit с флагом -a добавит все файлы и создаст
 
     git merge <name of merged branch>
 
-## Конфликт слияния
+## Конфликт слияний
 
 Если при слиянии в двух версиях файла одна и та же строка напечатана по-разному...
+
+Нужно выбрать один из вариантов:
+
+* Accept Current Change 
+* Accept Incoming Change
+* Accept Both Change
+* Compare Change 

@@ -89,6 +89,8 @@ git commit с флагом -a добавит все файлы и создаст
 
     git branch <name of new branch> 
 
+git checkout <name of branch>
+
 ## Слияние
 
 Чтобы влить измения из одной ветки в другую ...

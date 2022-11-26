@@ -112,3 +112,6 @@ git commit с флагом -a добавит все файлы и создаст
 * Accept Incoming Change
 * Accept Both Change
 * Compare Change 
+
+## Удаление ветки 
+
